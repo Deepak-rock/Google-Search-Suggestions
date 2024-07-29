@@ -1,24 +1,24 @@
 /* Write your CSS here */
-.suggestion-item{
-    list-style: none;
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    padding: 5px 15px;
+.suggestion-item {
+  list-style: none;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 5px 15px;
 }
-.suggestion{
-    color:#475569;
-    font-size: 20px;
-    font-family: 'Roboto';
-    cursor: pointer;
+.suggestion {
+  color: #475569;
+  font-size: 20px;
+  font-family: 'Roboto';
+  cursor: pointer;
 }
-.arrow{
-    background-color: transparent;
-    outline: none;
-    border: none;
-    cursor: pointer;
+.arrow {
+  background-color: transparent;
+  outline: none;
+  border: none;
+  cursor: pointer;
 }
-.arrow-icon{
-    width: 24px;
-    height: 24px;
+.arrow-icon {
+  width: 24px;
+  height: 24px;
 }
